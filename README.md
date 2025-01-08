@@ -4,7 +4,8 @@
 📍 Montreal, QC, Canada  
 📞 +1-514-463-3805 | 📧 nikhil.chalukulangara@gmail.com  
 
-[(https://www.linkedin.com/in/nikhilchalukulangara/)](#)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilchalukulangara/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/nikhilpc/nikhilchalukulangara)  
 
 ---
 
@@ -81,10 +82,20 @@ _July 2017 – June 2018_
 
 ---
 
-## 🔗 **Let’s Connect!**  
+## 📂 **Highlighted Repositories**
 
-- LinkedIn: [https://www.linkedin.com/in/nikhilchalukulangara/](#)  
-- GitHub: [(https://github.com/nikhilpc/nikhilchalukulangara)](#)  
+Here are some projects I’ve worked on:
+
+- [![Repo](https://img.shields.io/badge/-WebdriverIO%20Automation%20Framework-green?style=flat&logo=github)](https://github.com/nikhilpc/nikhilchalukulangara)  
+- [![Repo](https://img.shields.io/badge/-Postman%20API%20Testing-orange?style=flat&logo=postman)](https://github.com/nikhilpc/nikhilchalukulangara)  
+- [![Repo](https://img.shields.io/badge/-SQL%20Test%20Data-blue?style=flat&logo=mysql)](https://github.com/nikhilpc/nikhilchalukulangara)  
+
+---
+
+## 🔗 **Let’s Connect!**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilchalukulangara/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/nikhilpc/nikhilchalukulangara)  
 
 ---
 
@@ -92,3 +103,4 @@ _July 2017 – June 2018_
 
 When I'm not ensuring high-quality software, I enjoy learning new technologies and exploring efficient solutions for complex QA challenges. Always ready to adapt and innovate!
 
+![Working](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
